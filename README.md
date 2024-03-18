@@ -1,6 +1,6 @@
 Image Search Web Application using Pixel API
 
-This is a fully functional image search web application built with HTML, CSS, and JavaScript. It leverages the Pixel API from Pexels to retrieve images and photographer information, allowing users to:
+This is a fully functional and mobile-responsive image search web application built with HTML, CSS, and JavaScript. It leverages the Pixel API from Pexels to retrieve images and photographer information, allowing users to:
 
 Image Search: Enter keywords in the search bar to find relevant images.
 
